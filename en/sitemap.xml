@@ -2,19 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://valamir61.github.io/fr/posts/</loc>
+    <loc>https://valamir61.github.io/en/enarticles/</loc>
+    <lastmod>2022-10-23T20:00:04+02:00</lastmod>
+  </url><url>
+    <loc>https://valamir61.github.io/en/write-up/</loc>
+    <lastmod>2022-10-23T20:00:04+02:00</lastmod>
+  </url><url>
+    <loc>https://valamir61.github.io/fr/compte-rendu/</loc>
+    <lastmod>2022-10-23T20:00:04+02:00</lastmod>
+  </url><url>
+    <loc>https://valamir61.github.io/fr/frarticles/</loc>
+    <lastmod>2022-10-23T20:00:04+02:00</lastmod>
+  </url><url>
+    <loc>https://valamir61.github.io/fr/compte-rendu/cr/</loc>
+    <lastmod>2022-10-23T20:00:04+02:00</lastmod>
+  </url><url>
+    <loc>https://valamir61.github.io/fr/frarticles/effetpiezor/</loc>
+    <lastmod>2022-10-23T20:00:04+02:00</lastmod>
+  </url><url>
+    <loc>https://valamir61.github.io/en/enarticles/piezoreffect/</loc>
+    <lastmod>2022-10-23T20:00:04+02:00</lastmod>
+  </url><url>
+    <loc>https://valamir61.github.io/en/</loc>
     <lastmod>2022-10-23T20:00:04+02:00</lastmod>
   </url><url>
     <loc>https://valamir61.github.io/fr/</loc>
-    <lastmod>2022-10-23T20:00:04+02:00</lastmod>
-  </url><url>
-    <loc>https://valamir61.github.io/posts/</loc>
-    <lastmod>2022-10-23T20:00:04+02:00</lastmod>
-  </url><url>
-    <loc>https://valamir61.github.io/fr/posts/thestory/</loc>
-    <lastmod>2022-10-23T20:00:04+02:00</lastmod>
-  </url><url>
-    <loc>https://valamir61.github.io/posts/thestory/</loc>
     <lastmod>2022-10-23T20:00:04+02:00</lastmod>
   </url><url>
     <loc>https://valamir61.github.io/</loc>
@@ -29,6 +41,9 @@
                 hreflang="en"
                 href="https://valamir61.github.io/"
                 />
+  </url><url>
+    <loc>https://valamir61.github.io/en/write-up/wu/</loc>
+    <lastmod>2022-10-23T20:00:04+02:00</lastmod>
   </url><url>
     <loc>https://valamir61.github.io/categories/</loc>
     <xhtml:link

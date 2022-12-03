@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SensiTips</title>
+    <link>https://valamir61.github.io/fr/frarticles/</link>
+    <description>Recent content on SensiTips</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Oct 2022 20:00:04 +0200</lastBuildDate><atom:link href="https://valamir61.github.io/fr/frarticles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Découverte de l&#39;effet piézorésistif</title>
+      <link>https://valamir61.github.io/fr/frarticles/effetpiezor/</link>
+      <pubDate>Sun, 23 Oct 2022 20:00:04 +0200</pubDate>
+      
+      <guid>https://valamir61.github.io/fr/frarticles/effetpiezor/</guid>
+      <description>Une découverte sur fond de guerre de propriété intellectuelle Peu après la Seconde Guerre mondiale, deux laboratoires revendiquent la paternité de deux technologies similaires qui vont révolutionner :
+le transistor des laboratoires Bell américains, dont les inventeurs William Shockley et Walter Brattain ont reçu pour cela le prix Nobel de physique en 1956, le transistron aussi nommé transistor français développé par Hernet Mataré et Heinrich Welker travaillant pour la Compagnie des Freins et Signaux à Paris.</description>
+    </item>
+    
+  </channel>
+</rss>
