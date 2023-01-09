@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://valamir61.github.io/en/sitemap.xml</loc>
-    
-      <lastmod>2022-10-23T20:00:04+02:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://valamir61.github.io/fr/sitemap.xml</loc>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://valamir61.github.io/fr/frarticles/</loc>
+    <lastmod>2022-10-23T20:00:04+02:00</lastmod>
+  </url><url>
+    <loc>https://valamir61.github.io/fr/frarticles/effetpiezor/</loc>
+    <lastmod>2022-10-23T20:00:04+02:00</lastmod>
+  </url><url>
+    <loc>https://valamir61.github.io/fr/frarticles/enjeux/</loc>
+    <lastmod>2022-10-23T20:00:04+02:00</lastmod>
+  </url><url>
+    <loc>https://valamir61.github.io/fr/</loc>
+    <lastmod>2022-10-23T20:00:04+02:00</lastmod>
+  </url><url>
+    <loc>https://valamir61.github.io/</loc>
+    <lastmod>2022-10-23T20:00:04+02:00</lastmod>
+  </url><url>
+    <loc>https://valamir61.github.io/fr/frarticles/specifications/</loc>
+    <lastmod>2022-10-23T20:00:04+02:00</lastmod>
+  </url><url>
+    <loc>https://valamir61.github.io/fr/frarticles/contactus/</loc>
+    <lastmod>2022-10-01T20:00:04+02:00</lastmod>
+  </url><url>
+    <loc>https://valamir61.github.io/categories/</loc>
+  </url><url>
+    <loc>https://valamir61.github.io/series/</loc>
+  </url><url>
+    <loc>https://valamir61.github.io/tags/</loc>
+  </url>
+</urlset>
